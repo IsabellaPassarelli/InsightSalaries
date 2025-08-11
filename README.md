@@ -9,7 +9,8 @@ Este projeto é um dashboard interativo construído com o framework Streamlit e 
 └── README.md
 ```
 ## Funcionalidades
-1. Métricas Chave: Visualização rápida de métricas como salário médio e máximo, total de registros e o cargo mais frequente.
+1. Métricas Chave: 
+    - Visualização rápida de métricas como salário médio e máximo, total de registros e o cargo mais frequente.
 
 2. Gráficos Interativos:
     - Top 10 Cargos por Salário Médio: Um gráfico de barras que mostra os cargos com os maiores salários médios;
@@ -17,9 +18,11 @@ Este projeto é um dashboard interativo construído com o framework Streamlit e 
     - Proporção de Tipos de Trabalho: Um gráfico de pizza que detalha a proporção entre trabalho presencial, remoto e híbrido;
     - Salário por País: Um mapa-múndi que mostra o salário médio de Cientistas de Dados por país.
 
-3. Filtros Dinâmicos: A barra lateral permite filtrar os dados por múltiplos critérios, como ano, senioridade, tipo de contrato e tamanho da empresa.
+3. Filtros Dinâmicos: 
+    - A barra lateral permite filtrar os dados por múltiplos critérios, como ano, senioridade, tipo de contrato e tamanho da empresa.
 
-4. Dados Detalhados: Uma tabela com os dados brutos que se atualiza em tempo real conforme os filtros são aplicados.
+4. Dados Detalhados: 
+    - Uma tabela com os dados brutos que se atualiza em tempo real conforme os filtros são aplicados.
 
 ## Tecnologias utilizadas
 - Python
